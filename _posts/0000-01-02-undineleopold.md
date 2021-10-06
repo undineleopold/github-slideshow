@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my slide!"
 ---
 An apple a day keeps the doctor away...
 
