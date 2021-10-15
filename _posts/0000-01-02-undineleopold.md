@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to my slide!"
 ---
 
-This is my slide. It may not be much but it's mine :D
+This is my slide. It may not be much but it's mine :tada:
 
 An apple a day keeps the doctor away...
 
